@@ -1,0 +1,22 @@
+{
+  "name": "bebewiki.wp.api",
+  "version": "1.0.0",
+  "description": "bebewiki.wp.api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bebewiki"
+  ],
+  "author": "NICK",
+  "license": "ISC",
+  "dependencies": {
+    "modelproxy": "^0.5.19",
+    "request-promise": "^4.2.1",
+    "wpapi": "^1.1.1"
+  },
+  "devDependencies": {
+    "@types/request-promise": "^4.1.35"
+  }
+}

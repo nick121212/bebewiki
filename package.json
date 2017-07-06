@@ -1,0 +1,19 @@
+{
+  "name": "bebewiki",
+  "version": "1.0.0",
+  "description": "bebewiki",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bebewiki"
+  ],
+  "author": "NICK",
+  "license": "ISC",
+  "dependencies": {
+    "lerna": "^2.0.0-rc.5",
+    "lodash": "^4.17.4",
+    "modelproxy": "^0.5.19"
+  }
+}
